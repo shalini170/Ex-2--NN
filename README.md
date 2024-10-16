@@ -1,6 +1,6 @@
-<H3> name:
-<H3>Register no.</H3>
-<H3>Date</H3>
+<H3> name: shalini venkatesulu
+<H3>Register no:212223220104
+<H3>Date:16/10/2024
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
